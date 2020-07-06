@@ -1,0 +1,4 @@
+address f variable fund by the keywrd ID
+example:
+print(id(x))
+print(type(x))
